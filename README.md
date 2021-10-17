@@ -1,7 +1,7 @@
 # LAT1
 ## Instalasi dan Konfigurasi Repository GitHub
 <p align="center">
-<img src="https://github.com/abidhusein/Tutorial_Menggunakan_Github/blob/main/ssan/1g.gif"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwinpoin.com%2Fkabar-gembira-github-menggratiskan-beberapa-layanan-premium-untuk-semua-developer%2F&psig=AOvVaw3HLLOsnlKRaOjstOBP56A2&ust=1634544680213000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODMxIuA0fMCFQAAAAAdAAAAABAD"/>
 </p>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="D:\LAB\LAT1\Shoot\9.png"/></a></p>
