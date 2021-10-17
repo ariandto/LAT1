@@ -4,7 +4,7 @@
 <img src="https://github.com/abidhusein/Tutorial_Menggunakan_Github/blob/main/ssan/1g.gif"/>
 </p>
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dwhatsapp&psig=AOvVaw3QEDTKlehO8MwjWCSZc3Y2&ust=1634543591686000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjq5IP80PMCFQAAAAAdAAAAABAD"/></a></p>
+<a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="D:\LAB\LAT1\Shoot\9.png"/></a></p>
 <p align="center">
 <p align="center">
 <a href="https://github.com/ariandto"><img title="Create By" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgithub-logo%2F&psig=AOvVaw3llkq80caI1Cde5ikGdnc4&ust=1634543757778000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj1l9P80PMCFQAAAAAdAAAAABAD"></a>
