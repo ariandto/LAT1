@@ -6,9 +6,9 @@
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="https://github.com/ariandto/LAT1/blob/main/Shoot/9.png"/></a></p>
 <p align="center">
-<p align="center">
+<p align="left">
 <a href="https://github.com/ariandto"><img title="Create By" src="https://github.com/ariandto/LAT1/blob/main/Shoot/17.png"></a>
-<p align="center">
+<p align="left">
 
 ### Langkah Download - Instalasi
 - Buka link [GIT_download](https://git-scm.com/download/win)<p>
