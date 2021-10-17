@@ -1,13 +1,13 @@
 # LAT1
 ## Instalasi dan Konfigurasi Repository GitHub
 <p align="center">
-<img src="https://github.com/ariandto/LAT1/blob/main/Shoot/23.png"/>
+<img src="https://github.com/ariandto/LAT1/blob/main/Shoot/15.png"/>
 </p>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="https://github.com/ariandto/LAT1/blob/main/Shoot/9.png"/></a></p>
 <p align="center">
 <p align="center">
-<a href="https://github.com/ariandto"><img title="Create By" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgithub-logo%2F&psig=AOvVaw3llkq80caI1Cde5ikGdnc4&ust=1634543757778000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj1l9P80PMCFQAAAAAdAAAAABAD"></a>
+<a href="https://github.com/ariandto"><img title="Create By" src=""></a>
 <p align="center">
 
 ### Langkah Download - Instalasi
@@ -36,7 +36,7 @@
 ![PIC7](Shoot/22.png)
 
 - Buatlah Folder yang akan dijadikan <b>repository<b>, untuk ini hal ini saya letakkan repository di D:\LAB\LAT1<p>
-- lalu clone-kan dengan perintah , contoh <b>git clone https://github.com/ariandto/LAT1.git<p>
+- lalu clone-kan dengan perintah , contoh <b>git clone alamatakun.git(enter)<b><p>
 
 - Pembuatan README.md di akun GitHub<p>
 ![PIC9](Shoot/21.png)
