@@ -7,7 +7,7 @@
 <a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="https://github.com/ariandto/LAT1/blob/main/Shoot/9.png"/></a></p>
 <p align="center">
 <p align="center">
-<a href="https://github.com/ariandto"><img title="Create By" src=""></a>
+<a href="https://github.com/ariandto"><img title="Create By" src="https://github.com/ariandto/LAT1/blob/main/Shoot/17.png"></a>
 <p align="center">
 
 ### Langkah Download - Instalasi
