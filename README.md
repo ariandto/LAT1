@@ -20,6 +20,7 @@
 
  - Berikut tahapan singkat instalasinya<p>
 ![PIC3](Shoot/13.png)
+
 ![PIC4](Shoot/14.png)
 
 #### Sign-Up GitHub
