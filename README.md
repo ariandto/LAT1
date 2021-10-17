@@ -38,7 +38,8 @@
 ![PIC7](Shoot/22.png)
 
 - Buatlah Folder yang akan dijadikan <b>repository<b>, untuk ini hal ini saya letakkan repository di D:\LAB\LAT1<p>
-- lalu clone-kan dengan perintah , contoh <b>git clone alamatakun.git(enter)<b><p>
+- lalu clone-kan dengan perintah , contoh <b>git clone urlalamatakun.git(enter)<b><p>
+![PIC10](Shoot/10.png)
 
 - Pembuatan README.md di akun GitHub<p>
 ![PIC9](Shoot/21.png)
