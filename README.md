@@ -19,10 +19,10 @@
  ![PIC2](Shoot/12.png)
 
  - Berikut tahapan singkat instalasinya<p>
-<p align="center">
-[PIC3](Shoot/13.png)
-<p align="center">
-![PIC4](Shoot/14.png)
+
+     ![PIC3](Shoot/13.png)
+
+     ![PIC4](Shoot/14.png)
 
 #### Sign-Up GitHub
 - Buka link [GitHub](https://github.com)<p>
