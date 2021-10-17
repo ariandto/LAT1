@@ -32,12 +32,12 @@
 ![PIC6](Shoot/8.png)
 
 #### Konfigurasi Singkat GIT Repository
-- Buka GITBASH di <b>windows search<b>
+- Buka GITBASH di <b>windows search<b><p>
 ![PIC7](Shoot/22.png)
 
 - Buatlah Folder yang akan dijadikan <b>repository<b>, untuk ini hal ini saya letakkan repository di D:\LAB\LAT1<p>
-- lalu clone-kan dengan perintah , contoh <b>git clone https://github.com/ariandto/LAT1.git<b> <p>
-![PIC8](Shoot/20.png)
+- lalu clone-kan dengan perintah , contoh <b>git clone https://github.com/ariandto/LAT1.git<p>
+
 - Pembuatan README.md di akun GitHub<p>
 ![PIC9](Shoot/21.png)
 
