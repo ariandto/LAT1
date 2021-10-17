@@ -1,10 +1,10 @@
 # LAT1
 ## Instalasi dan Konfigurasi Repository GitHub
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwinpoin.com%2Fkabar-gembira-github-menggratiskan-beberapa-layanan-premium-untuk-semua-developer%2F&psig=AOvVaw3HLLOsnlKRaOjstOBP56A2&ust=1634544680213000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODMxIuA0fMCFQAAAAAdAAAAABAD"/>
+<img src="https://github.com/ariandto/LAT1/blob/main/Shoot/23.png"/>
 </p>
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="D:\LAB\LAT1\Shoot\9.png"/></a></p>
+<a href="https://api.whatsapp.com/send?phone=62895340710827"><img alt="WhatsApp" src="https://github.com/ariandto/LAT1/blob/main/Shoot/9.png"/></a></p>
 <p align="center">
 <p align="center">
 <a href="https://github.com/ariandto"><img title="Create By" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgithub-logo%2F&psig=AOvVaw3llkq80caI1Cde5ikGdnc4&ust=1634543757778000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj1l9P80PMCFQAAAAAdAAAAABAD"></a>
