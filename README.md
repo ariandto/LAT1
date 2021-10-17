@@ -2,7 +2,7 @@
 ## TUTORIAL GitHub
 
 ###
-- Buka link https://git-scm.com <p>
+- Buka link [GIT_download](https://git-scm.com/download/win)<p>
 - Klik Download
-ilustrasi
 ![PIC1](Shoot/1.png)
+- ilustrasi
